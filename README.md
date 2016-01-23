@@ -13,7 +13,7 @@ version someday). The program was an exercise in keeping to standards,
 and working with numbers.  
 It is recommended you read the source code to see exactly what the code is
 doing.  
-Please visit my portfolio at http://people.scs.carleton.ca/~mchristo/
+Please visit my portfolio at http://murraychristopherson.com
 
 If you discover any bugs or unclear/inconsistent documentation, please contact me
 at murraychristopherson@gmail.com with a description of what happened, and I
